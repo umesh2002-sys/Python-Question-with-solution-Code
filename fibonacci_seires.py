@@ -1,7 +1,3 @@
-
-from calendar import c
-
-
 a = 0
 b = 1
 
